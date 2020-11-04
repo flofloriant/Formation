@@ -1,0 +1,11 @@
+https://git-scm.com/book/en/v2/Git-Branching-Remote-Branches
+
+https://git-scm.com/book/fr/v2/Les-branches-avec-Git-Branches-de-suivi-%C3%A0-distance
+
+https://devconnected.com/how-to-set-upstream-branch-on-git/
+
+https://devconnected.com/how-to-set-upstream-branch-on-git/
+
+https://stackoverflow.com/questions/5834014/lf-will-be-replaced-by-crlf-in-git-what-is-that-and-is-it-important
+
+https://medium.com/@talgoldfus/better-understanding-gits-work-flow-in-order-to-properly-deal-with-merge-conflicts-part-i-760a366fc997#:~:text=Whats%20the%20difference%20between%20push%20%2C%20commit%20%26%20fetch%20%2Cmerge&text=So%20the%20first%20one%20is,interact%20with%20a%20remote%20repository.

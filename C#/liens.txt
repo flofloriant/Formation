@@ -1,0 +1,77 @@
+OpenClassRooms
+https://openclassrooms.com/fr/courses/1526901-apprenez-a-developper-en-c
+
+POO developez
+https://bpesquet.developpez.com/tutoriels/csharp/programmation-orientee-objet-csharp/
+https://bpesquet.developpez.com/tutoriels/csharp/programmation-orientee-objet-csharp/?page=initiation-a-la-programmation-orientee-objet#LII-B
+
+Classes
+https://csharp.net-tutorials.com/fr/116/classes/introduction-to-c-classes/
+https://fr.wikibooks.org/wiki/Programmation_C_sharp/Les_classes
+https://dev.to/tyrrrz/interview-question-heap-vs-stack-c-5aae#:~:text=In%20C%23%20there%20are%20two,can%20be%20accessed%20from%20anywhere.
+https://stackoverflow.com/questions/2031258/c-sharp-structs-classes-stack-heap-control
+https://fr.wikipedia.org/wiki/Pile_(informatique)
+
+Random
+https://docs.microsoft.com/fr-fr/dotnet/api/system.random.-ctor?view=netcore-3.1
+
+Thread.Sleep méthode
+https://docs.microsoft.com/fr-fr/dotnet/api/system.threading.thread.sleep?view=netcore-3.1
+
+Constructeur
+https://docs.microsoft.com/fr-fr/dotnet/csharp/programming-guide/classes-and-structs/using-constructors
+https://fr.wikipedia.org/wiki/Constructeur_(programmation)
+https://csharp.net-tutorials.com/fr/118/classes/constructeurs-et-destructeurs/
+
+Scope & visibility
+https://www.pluralsight.com/guides/understanding-scope-and-visibility-in-c
+
+Forum visibility
+https://stackoverflow.com/questions/614818/in-c-what-is-the-difference-between-public-private-protected-and-having-no#:~:text=private%20%2D%20can%20only%20be%20accessed,every%20instance%20of%20that%20class.
+
+Site tutoriel C#
+https://csharp.net-tutorials.com/
+
+Classe / instance
+https://fr.wikibooks.org/wiki/Programmation_C_sharp/Les_classes#Instance_d'une_classe
+
+Instance
+https://fr.wikipedia.org/wiki/Instance_(programmation)
+
+.NET CORE / .NET FRAMEWORK
+https://stackify.com/net-core-vs-net-framework/#:~:text=Developers%20use%20the%20.,applications%20and%20server%20based%20applications.&text=NET%20Core%20is%20used%20to,applications%20with%20a%20user%20interface.
+
+C# W3School / inheritence
+https://www.w3schools.com/cs/cs_inheritance.asp
+
+Polymorphism
+https://o7planning.org/fr/10337/heritage-et-polymorphisme-en-csharp
+https://docs.microsoft.com/fr-fr/dotnet/csharp/programming-guide/classes-and-structs/polymorphism
+https://www.tutlane.com/tutorial/csharp/csharp-polymorphism#:~:text=In%20c%23%2C%20Polymorphism%20means%20providing,and%20another%20one%20is%20morphs.
+
+Interfaces
+https://docs.microsoft.com/fr-fr/dotnet/csharp/programming-guide/interfaces/
+https://openclassrooms.com/fr/courses/218202-apprenez-a-programmer-en-c-sur-net/217900-les-interfaces
+https://www.w3schools.com/cs/cs_interface.asp
+
+Abstraction 
+https://www.w3schools.com/cs/cs_abstract.asp
+
+Static
+https://www.c-sharpcorner.com/UploadFile/74ce7b/static-class-in-C-Sharp/
+https://csharp.net-tutorials.com/fr/121/classes/static-members/
+https://www.tutorialsteacher.com/csharp/csharp-static
+https://docs.microsoft.com/fr-fr/dotnet/csharp/programming-guide/classes-and-structs/static-classeas-and-static-class-members
+
+Overloading constructors / this()
+https://www.geeksforgeeks.org/invoking-an-overloaded-constructor-using-this-keyword-in-c-sharp/
+https://www.geeksforgeeks.org/c-sharp-constructor-overloading/
+
+get/set
+https://www.w3schools.com/cs/cs_properties.asp
+
+Boxing/Unboxing
+https://www.tutorialsteacher.com/articles/boxing-unboxing-in-csharp
+
+Types valeur/ref
+https://docs.microsoft.com/fr-fr/dotnet/csharp/language-reference/builtin-types/value-types
