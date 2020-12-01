@@ -1,3 +1,20 @@
+Entity
+https://www.learnentityframeworkcore.com/configuration/data-annotation-attributes
+https://stackoverflow.com/questions/21973611/model-backing-the-context-has-changed-since-the-database-was-created-consider-u
+
+
+Git/create remote branch
+https://www.w3docs.com/snippets/git/how-to-create-a-remote-branch-in-git.html
+
+CSS
+https://css-tricks.com/snippets/css/a-guide-to-flexbox/
+
+HTML helpers
+https://www.quanzhanketang.com/aspnet/mvc_htmlhelpers.html
+
+DB initialization
+https://stackoverflow.com/questions/14948205/model-backing-a-db-context-has-changed-consider-code-first-migrations/37488834
+
 OpenClassRooms
 https://openclassrooms.com/fr/courses/1526901-apprenez-a-developper-en-c
 
@@ -11,6 +28,21 @@ https://fr.wikibooks.org/wiki/Programmation_C_sharp/Les_classes
 https://dev.to/tyrrrz/interview-question-heap-vs-stack-c-5aae#:~:text=In%20C%23%20there%20are%20two,can%20be%20accessed%20from%20anywhere.
 https://stackoverflow.com/questions/2031258/c-sharp-structs-classes-stack-heap-control
 https://fr.wikipedia.org/wiki/Pile_(informatique)
+
+String (attention c'est du lourd)
+https://docs.microsoft.com/fr-fr/dotnet/api/system.string?view=netcore-3.1
+
+Chaine interpolée
+https://docs.microsoft.com/fr-fr/dotnet/csharp/language-reference/tokens/interpolated
+
+Composing formatting
+https://docs.microsoft.com/fr-fr/dotnet/standard/base-types/composite-formatting
+
+String.Format méthode
+https://docs.microsoft.com/fr-fr/dotnet/api/system.string.format?view=netcore-3.1
+
+Foreach (pas si simple que ça)
+https://docs.microsoft.com/fr-fr/dotnet/csharp/language-reference/keywords/foreach-in
 
 Random
 https://docs.microsoft.com/fr-fr/dotnet/api/system.random.-ctor?view=netcore-3.1
@@ -75,3 +107,46 @@ https://www.tutorialsteacher.com/articles/boxing-unboxing-in-csharp
 
 Types valeur/ref
 https://docs.microsoft.com/fr-fr/dotnet/csharp/language-reference/builtin-types/value-types
+
+Lambda
+https://www.dotnetdojo.com/guide-expressions-lambda-csharp/
+
+Delegue/lambda
+https://docs.microsoft.com/fr-fr/dotnet/standard/delegates-lambdas
+https://www.codemag.com/article/0809081/From-Delegate-to-Lambda
+https://www.c-sharpcorner.com/article/overview-of-delegates-anonymous-method-and-lambda-expression-in-c-sharp/
+
+Delegate
+https://www.tutorialsteacher.com/csharp/csharp-delegates
+https://openclassrooms.com/fr/courses/2818931-programmez-en-oriente-objet-avec-c/2819111-delegues-evenements-et-expressions-lambdas
+
+Predicat (& delegate)
+https://docs.microsoft.com/fr-fr/dotnet/api/system.predicate-1?view=netcore-3.1
+https://www.tutorialsteacher.com/csharp/csharp-predicate
+http://zetcode.com/csharp/predicate/
+https://stackoverflow.com/questions/1710301/what-is-a-predicate-in-c
+
+Expressions régulières
+https://lgmorand.developpez.com/dotnet/regex/
+https://docs.microsoft.com/fr-fr/dotnet/standard/base-types/regular-expressions
+
+Get/Post
+https://apprendre-php.com/tutoriels/tutoriel-12-traitement-des-formulaires-avec-get-et-post.html
+https://www.xul.fr/ecmascript/get-post.php
+
+
+
+Résumé POO C#
+http://bravo.univ-tln.fr/er/Prog/transparents%20cours%20Csharp.pdf
+
+C# avancé
+https://openclassrooms.com/fr/courses/2818931-programmez-en-oriente-objet-avec-c/2818981-notions-avancees-de-poo-en-c
+
+
+Entity 
+https://koor.fr/DotNet/SamplesCS/entity_framework.wp
+https://zestedesavoir.com/tutoriels/597/creez-votre-site-web-avec-asp-net/269_gerer-la-base-de-donnees-avec-entity-framework-code-first/1651_entity-framework-un-orm-qui-vous-veut-du-bien/
+https://docs.microsoft.com/fr-fr/aspnet/mvc/overview/getting-started/getting-started-with-ef-using-mvc/creating-an-entity-framework-data-model-for-an-asp-net-mvc-application
+https://docs.microsoft.com/en-us/dotnet/api/system.data.entity.dbset?redirectedfrom=MSDN&view=entity-framework-6.2.0
+https://docs.microsoft.com/fr-fr/ef/ef6/fundamentals/configuring/connection-strings
+https://docs.microsoft.com/fr-fr/previous-versions/aspnet/jj653752(v=vs.110)
