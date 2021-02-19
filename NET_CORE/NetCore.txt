@@ -1,25 +1,25 @@
 CORE Validation :
 https://docs.microsoft.com/fr-fr/aspnet/core/mvc/models/validation?view=aspnetcore-5.0#disable-client-side-validation
 
-Autre tuto Razor : 
+Tuto Razor : 
 https://docs.microsoft.com/fr-fr/aspnet/core/data/ef-rp/intro?view=aspnetcore-5.0&tabs=visual-studio
 
 Configuration de ASP.NET CORE
 https://docs.microsoft.com/fr-fr/aspnet/core/fundamentals/configuration/?view=aspnetcore-5.0
 
-LIAISON DE DONNEES : 
+Liaison des données : 
 https://docs.microsoft.com/fr-fr/aspnet/core/mvc/models/model-binding?view=aspnetcore-5.0
 
 ActionResult : 
 https://docs.microsoft.com/fr-fr/dotnet/api/microsoft.aspnetcore.mvc.iactionresult?view=aspnetcore-5.0
 
 Pas oublier de :
-
+***
 Add-Migration New_DataAnnotations
 Update-Database
+***  ==> dès qu'on a modifié le modèle de BdD
 
-dès qu'on a modifié le modèle de BdD
-
+Tags :
 Créer des tags helpers :
 https://docs.microsoft.com/fr-fr/aspnet/core/mvc/views/tag-helpers/authoring?view=aspnetcore-5.0
 
@@ -28,3 +28,7 @@ https://docs.microsoft.com/fr-fr/aspnet/core/mvc/views/working-with-forms?view=a
 
 Tags helpers dans CORE :
 https://docs.microsoft.com/fr-fr/aspnet/core/mvc/views/tag-helpers/intro?view=aspnetcore-5.0
+
+///////////////////////// ENTITY /////////////////////////
+https://docs.microsoft.com/fr-fr/learn/modules/persist-data-ef-core/?view=aspnetcore-5.0
+https://docs.microsoft.com/fr-fr/aspnet/core/security/authentication/identity?view=aspnetcore-5.0&tabs=visual-studio
