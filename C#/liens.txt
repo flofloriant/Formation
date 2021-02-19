@@ -1,10 +1,22 @@
-Entity
-https://www.learnentityframeworkcore.com/configuration/data-annotation-attributes
-https://stackoverflow.com/questions/21973611/model-backing-the-context-has-changed-since-the-database-was-created-consider-u
+Apprendre dev web
+https://apprendre-html.3wa.fr/courses
 
+Html Forms
+https://developer.mozilla.org/fr/docs/Web/Guide/HTML/Formulaires/Comment_structurer_un_formulaire_HTML
+
+Injection de code
+https://fr.wikipedia.org/wiki/Injection_de_code_dans_les_applications_web
+
+Attaques & injection
+W3School
+https://www.w3schools.com/jsref/
 
 Git/create remote branch
 https://www.w3docs.com/snippets/git/how-to-create-a-remote-branch-in-git.html
+
+JS Event loop
+https://geekflare.com/fr/javascript-event-loops/
+https://blog.carbonfive.com/the-javascript-event-loop-explained/
 
 CSS
 https://css-tricks.com/snippets/css/a-guide-to-flexbox/
@@ -12,12 +24,19 @@ https://css-tricks.com/snippets/css/a-guide-to-flexbox/
 HTML helpers
 https://www.quanzhanketang.com/aspnet/mvc_htmlhelpers.html
 
-DB initialization
-https://stackoverflow.com/questions/14948205/model-backing-a-db-context-has-changed-consider-code-first-migrations/37488834
+JS
+https://javascript.info/
 
-OpenClassRooms
-https://openclassrooms.com/fr/courses/1526901-apprenez-a-developper-en-c
+///////////////////////////////////////////////////////////////////////////////////////////////////////////
+jQuery
+///////////////////////////////////////////////////////////////////////////////////////////////////////////
+https://www.grafikart.fr/tutoriels/jquery
+https://www.grafikart.fr/tutoriels/jquery
+https://www.pierre-giraud.com/jquery-apprendre-cours/decouverte-syntaxe/
 
+///////////////////////////////////////////////////////////////////////////////////////////////////////////
+C#
+///////////////////////////////////////////////////////////////////////////////////////////////////////////
 POO developez
 https://bpesquet.developpez.com/tutoriels/csharp/programmation-orientee-objet-csharp/
 https://bpesquet.developpez.com/tutoriels/csharp/programmation-orientee-objet-csharp/?page=initiation-a-la-programmation-orientee-objet#LII-B
@@ -134,14 +153,17 @@ Get/Post
 https://apprendre-php.com/tutoriels/tutoriel-12-traitement-des-formulaires-avec-get-et-post.html
 https://www.xul.fr/ecmascript/get-post.php
 
-
-
 Résumé POO C#
 http://bravo.univ-tln.fr/er/Prog/transparents%20cours%20Csharp.pdf
 
 C# avancé
 https://openclassrooms.com/fr/courses/2818931-programmez-en-oriente-objet-avec-c/2818981-notions-avancees-de-poo-en-c
 
+///////////////////////////////////////////////////////////////////////////////////////////////////////////
+DATABASES
+///////////////////////////////////////////////////////////////////////////////////////////////////////////
+DB initialization
+https://stackoverflow.com/questions/14948205/model-backing-a-db-context-has-changed-consider-code-first-migrations/37488834
 
 Entity 
 https://koor.fr/DotNet/SamplesCS/entity_framework.wp
@@ -150,3 +172,5 @@ https://docs.microsoft.com/fr-fr/aspnet/mvc/overview/getting-started/getting-sta
 https://docs.microsoft.com/en-us/dotnet/api/system.data.entity.dbset?redirectedfrom=MSDN&view=entity-framework-6.2.0
 https://docs.microsoft.com/fr-fr/ef/ef6/fundamentals/configuring/connection-strings
 https://docs.microsoft.com/fr-fr/previous-versions/aspnet/jj653752(v=vs.110)
+https://www.learnentityframeworkcore.com/configuration/data-annotation-attributes
+https://stackoverflow.com/questions/21973611/model-backing-the-context-has-changed-since-the-database-was-created-consider-u
